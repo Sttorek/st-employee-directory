@@ -1,0 +1,8 @@
+form {
+  width: 75%;
+}
+
+.random {
+  display: flex;
+  justify-content: center;
+}
