@@ -1,0 +1,10 @@
+.rows {
+  display: flex;
+  justify-content: space-around;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 2px solid rgb(134, 133, 133);
+}
