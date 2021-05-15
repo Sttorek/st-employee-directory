@@ -1,3 +1,9 @@
+# st-employee-directory
+
+# Description
+
+This is an employee directory application used to keep track of employees and search based on a number of options.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

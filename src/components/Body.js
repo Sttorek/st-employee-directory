@@ -10,9 +10,7 @@ export default class Body extends Component {
   };
 
   componentDidMount() {
-    // Mount the data to run after this component renders to the page
     API.getUsers().then((res) => {
-      // Mapped through it because this is the value I wanted to hold, not really needed at this point honestly.
       const holdData = res.data.results.map((user) => {
         return user;
       });
