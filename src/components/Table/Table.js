@@ -7,7 +7,7 @@ function Table(props) {
   const userData = props.users.map((user) => {
     return (
       <div className="rows">
-        <div>{user.picture.thumbnail}</div>
+        <img alt="Picture" src={user.picture.large}></img>
         <div>
           {user.name.first} {user.name.last}
         </div>
