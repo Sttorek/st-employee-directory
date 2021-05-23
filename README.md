@@ -1,6 +1,6 @@
 # st-employee-directory
 
-![](https://sttorek.github.io/st-employee-directory/)
+![link](https://sttorek.github.io/st-employee-directory/)
 
 # Description
 
