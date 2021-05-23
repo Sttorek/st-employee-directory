@@ -1,5 +1,7 @@
 # st-employee-directory
 
+![](https://sttorek.github.io/st-employee-directory/)
+
 # Description
 
 This is an employee directory application used to keep track of employees and search based on a number of options.
